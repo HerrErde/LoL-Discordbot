@@ -1,0 +1,27 @@
+{
+  "name": "lol-discordbot",
+  "version": "1.0.0",
+  "description": "A bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Herr Erde",
+  "license": "ISC",
+  "dependencies": {
+    "@ricokahler/pool": "^1.1.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "ds": "^1.4.2",
+    "fs": "^0.0.1-security",
+    "utf8": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerrErde/LoL-Discordbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HerrErde/LoL-Discordbot/issues"
+  },
+  "homepage": "https://github.com/HerrErde/LoL-Discordbot#readme"
+}
