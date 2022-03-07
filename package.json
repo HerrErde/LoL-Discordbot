@@ -11,7 +11,7 @@
   "dependencies": {
     "@ricokahler/pool": "^1.1.2",
     "discord.js": "^13.0.0",
-    "dotenv": "^10.0.0",
+    "dotenv": "^16.0.0",
     "ds": "^1.4.2",
     "fs": "^0.0.1-security",
     "utf8": "^3.0.0"
